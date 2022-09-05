@@ -1,0 +1,4 @@
+
+0;10;1c#!/bin/bash
+ls -laR /alx-system_engineering-devops
+
